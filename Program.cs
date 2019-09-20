@@ -29,7 +29,7 @@ namespace Buscador_Numero_Naturales_Perfectos
             for (i = rangoini; i <= rangomax; i++)
             {
                 control = 0;
-                if (i % 2 == 0)
+                if (i % Decimal.Truncate(i / 2) == 0)
                 {
                     for (j = 1; j <= Decimal.Truncate(i / 2); j++)
                     {
