@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\bin\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.deps.json
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\bin\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.runtimeconfig.json
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\bin\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\bin\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.dll
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\bin\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.pdb
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\obj\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\obj\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\obj\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\obj\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.AssemblyInfo.cs
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\obj\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.dll
+C:\Users\USER\Desktop\Prueba Programador\Buscador-Numero-Naturales-Perfectos\obj\Debug\netcoreapp2.2\Buscador-Numero-Naturales-Perfectos.pdb
